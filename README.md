@@ -1,10 +1,9 @@
 # IMAGE CAPTIONING PROJECT
 In this project we will define and train an image-to-caption model, that can produce descriptions for real world images!
 
-![Encoder-Decoder Architecture]("images/encoder_decoder.png")
+![](images/encoder_decoder.png)
 
-Model architecture: CNN encoder and RNN decoder. 
-(https://research.googleblog.com/2014/11/a-picture-is-worth-thousand-coherent.html)
+[Model architecture: CNN encoder and RNN decoder](https://research.googleblog.com/2014/11/a-picture-is-worth-thousand-coherent.html)
 
 ## Welcome!
 **Image Captioning** is the process of generating textual description of an image. It uses both **Natural Language Processing** and **Computer Vision** to generate the captions. The dataset will be in the form **[image → captions]**. The dataset consists of input images and their corresponding output captions.
